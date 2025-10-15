@@ -219,7 +219,7 @@
 // console.log('Números generados:', nums);
 // console.log('Número más pequeño:', min);
 
-
+//Hola mundo
 
 // generar un array dado por el usuario y encontrar los numeros mas grandes de otro numero dado por el usuario
 
