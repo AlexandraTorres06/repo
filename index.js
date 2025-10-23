@@ -51,15 +51,3 @@ const rocket = {
 
 rocket.launchmessage()
 */
-
-const greeting = function (name) {
-    return `Hi, ${name}`
-}
-
-const newGreeting = (name) => `Hi, ${name}`
-
-const resulFun1 = greeting
-const resulFun2 = newGreeting
-
-console.log('resulFun1', resulFun1)
-console.log('resulFun2', resulFun2)
